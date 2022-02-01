@@ -1,14 +1,11 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=yusufdogan84&show_icons=true">
+
 
 # Merhaba, ben Yusuf DOĞAN! 
-
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=yusufdogan84&show_icons=true">
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yusufdogan84/)
 [![Mail Badge](https://img.shields.io/badge/yusufdogan.vet@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yusufdogan.vet@gmail.com)](mailto:yusufdogan.vet@gmail.com)
-  
-<br />
-<br />
-<br />
+ 
 
 <p align="center">
   <span><img align="center" width="450" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufdogan84&&repo=mksec&border_radius=0&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=000000&layout=compact&langs_count=15&show_owner=1" /></span>
