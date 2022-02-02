@@ -22,7 +22,7 @@
 <span><img style="width: 49%" src="https://github-readme-stats.vercel.app/api?username=yusufdogan84&show_icons=true&locale=en" alt="yusufdogan84" /></span>
 <span><img style="width: 50%" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufdogan84&" alt="yusufdogan84" /></span>
 
-![snake gif](https://github.com/yusufdogan84/patika.dev-egitimleri/blob/master/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/yusufdogan84/yusufdogan84/blob/main/github-contribution-grid-snake.gif)
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yusufdogan84&label=Profile%20views&color=0e75b6&style=flat" alt="yusufdogan84"/></p>
