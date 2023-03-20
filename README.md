@@ -6,11 +6,11 @@
 <p align="center">
 <a target="_blank" href="https://www.veteriner-hekim.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 <a target="_blank" href="https://www.linkedin.com/in/yusufdogan84"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a target="_blank" href="mailto:yusufdogan.vet@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a target="_blank" href="mailto:yusufdogan.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <p align="center">
-  <span><img align="center" width="450" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufdogan84&&repo=mksec&border_radius=0&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=000000&layout=compact&langs_count=15&show_owner=1" /></span>
+  <span><img align="center" width="450" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufdogandev&&repo=mksec&border_radius=0&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=000000&layout=compact&langs_count=15&show_owner=1" /></span>
 </p>
 
 ## Languages & Tools 💪
