@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <span><img align="center" width="450" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufdogandev&&repo=mksec&border_radius=0&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=000000&layout=compact&langs_count=15&show_owner=1" /></span>
+  <span><img align="center" width="450" height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-dogan&&repo=mksec&border_radius=0&title_color=00ff00&text_color=00ff00&icon_color=00ff00&border_color=00ff00&bg_color=000000&layout=compact&langs_count=15&show_owner=1" /></span>
 </p>
 
 ## Languages & Tools 💪
@@ -19,10 +19,10 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |<img style="width: 134px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">|<img style="width: 134px" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif">|<img style="width: 134px" src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif">|<img style="width: 134px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">|<img style="width: 134px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">|<img style="width: 134px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">
 
-<span><img style="width: 49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yusufdogandev&show_icons=true&locale=en" alt="yusufdogandev" /></span>
-<span><img style="width: 50%" src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=yusufdogandev&" alt="yusufdogandev" /></span>
+<span><img style="width: 49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yusuf-dogan&show_icons=true&locale=en" alt="yusuf-dogan" /></span>
+<span><img style="width: 50%" src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=yusuf-dogan&" alt="yusuf-dogan" /></span>
 
-![snake gif](https://github.com/yusufdogandev/yusufdogandev/blob/main/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/yusuf-dogan/yusuf-dogan/blob/main/github-contribution-grid-snake.gif)
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yusufdogan84&label=Profile%20views&color=0e75b6&style=flat" alt="yusufdogan84"/></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yusuf-dogan&label=Profile%20views&color=0e75b6&style=flat" alt="yusuf-dogan"/></p>
