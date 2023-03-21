@@ -20,7 +20,7 @@
 |<img style="width: 134px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">|<img style="width: 134px" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif">|<img style="width: 134px" src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif">|<img style="width: 134px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">|<img style="width: 134px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">|<img style="width: 134px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">
 
 <span><img style="width: 49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yusuf-dogan&show_icons=true&locale=en" alt="yusuf-dogan" /></span>
-<span><img style="width: 50%" src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=yusuf-dogan&" alt="yusuf-dogan" /></span>
+<span><img style="width: 50%" src="https://github-readme-streak-stats.herokuapp.com/?user=yusuf-dogan&" alt="yusuf-dogan" /></span>
 
 ![snake gif](https://github.com/yusuf-dogan/yusuf-dogan/blob/main/github-contribution-grid-snake.gif)
 
