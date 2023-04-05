@@ -1,6 +1,6 @@
 ## Hi 👋 , I'm Yusuf 
 
-|<img style="width: 500px" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">|*Welcome to my github profile. I am veterinarian. I am translating articles about my profession in English on my own website. I want to improve myself to become a front-end web developer.* 
+|<img style="width: 500px" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif">|*Welcome to my github profile. I am trying to improve myself on the way to become a Front end Developer. I am studying Computer Programming.* 
 |-|-|
 
 <p align="center">
