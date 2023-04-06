@@ -1,6 +1,6 @@
 ## Hi 👋 , I'm Yusuf 
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width="510" height="400"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"  width="500" height="400">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width="500" height="400"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"  width="500" height="400">
 
 |<img style="width: 500px" src="https://media.giphy.com/media/ptzlRfMuHaGgccUzbh/giphy.gif">|*Welcome to my github profile. I am trying to improve myself on the way to become a Front end Developer. I am studying Computer Programming.* 
 |-|-|
