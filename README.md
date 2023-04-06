@@ -20,14 +20,11 @@
 |<img style="width: 134px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">|<img style="width: 134px" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif">|<img style="width: 134px" src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif">|<img style="width: 134px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">|<img style="width: 134px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">|<img style="width: 134px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif">|<img style="width: 134px" src="https://media.giphy.com/media/fxKWgoOG9hzPPkE1oc/giphy.gif">|
 
 
-<table align="center">
-  <tr>
-<td>
+
 |Photoshop|Illustrator|Premiere Pro
 |:-:|:-:|:-:|
 |<img style="width: 134px" src="https://cdn.dribbble.com/users/392441/screenshots/2592452/media/96909bc51fcaba2a26838a6670d809b0.gif">|<img style="width:134px" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/7994c996055755.5eb16d3301121.gif">|<img style="width:134px" src="https://images.squarespace-cdn.com/content/v1/56091db4e4b02efb26807ec0/1533824630667-RW61D8N9HKEEFA0KPGEY/basic-3d-premiere-pro.gif">|
- </td></tr>
-  </table>
+
 <span><img style="width: 49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yusuf-dogan&show_icons=true&locale=en" alt="yusuf-dogan" /></span>
 <span><img style="width: 50%" src="https://github-readme-streak-stats.herokuapp.com/?user=yusuf-dogan&" alt="yusuf-dogan" /></span>
 
