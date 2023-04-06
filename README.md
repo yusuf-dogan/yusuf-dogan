@@ -26,7 +26,7 @@
 <span><img style="width: 50%" src="https://github-readme-streak-stats.herokuapp.com/?user=yusuf-dogan&" alt="yusuf-dogan" /></span>
 
 <p align="center">
-![snake gif](https://github.com/yusuf-dogan/yusuf-dogan/blob/main/github-contribution-grid-snake.gif)
+  <img src="https://github.com/yusuf-dogan/yusuf-dogan/blob/main/github-contribution-grid-snake.gif" />
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yusuf-dogan&label=Profile%20views&color=0e75b6&style=flat" alt="yusuf-dogan"/></p>
