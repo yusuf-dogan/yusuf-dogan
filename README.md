@@ -24,7 +24,7 @@
 
 <div align="center">
 <table style="margin-left: auto; margin-right: auto;">
-  <tr><th>Html5</th>           <th>CSS3</th>      <th>Bootstrap</th></tr>
+  <tr><th>Photoshop</th>           <th>Illustrator</th>      <th>Premiere Pro</th></tr>
   <tr><td><img style="width: 134px" src="https://cdn.dribbble.com/users/392441/screenshots/2592452/media/96909bc51fcaba2a26838a6670d809b0.gif"></td>   <td><img style="width:134px" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/7994c996055755.5eb16d3301121.gif"></td>       <td><img style="width:134px" src="https://images.squarespace-cdn.com/content/v1/56091db4e4b02efb26807ec0/1533824630667-RW61D8N9HKEEFA0KPGEY/basic-3d-premiere-pro.gif"></td></tr>
 </table>
 </div>
