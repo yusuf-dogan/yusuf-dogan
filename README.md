@@ -4,7 +4,10 @@
 <a target="_blank" href="https://www.yusufdogan.tech"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>  <a target="_blank" href="https://www.linkedin.com/in/yusufdogan84"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  <a target="_blank" href="mailto:yusufdogan.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
-https://user-images.githubusercontent.com/98260376/230552007-fd755d38-fa5f-4401-8473-71bcbb5295b7.mp4
+
+
+https://user-images.githubusercontent.com/98260376/230552446-a68fca18-8eef-4be1-8d6b-5149f89b77da.mp4
+
 
 
   
