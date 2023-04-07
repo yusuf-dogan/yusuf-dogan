@@ -3,35 +3,14 @@
 
 <a target="_blank" href="https://www.yusufdogan.tech"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>  <a target="_blank" href="https://www.linkedin.com/in/yusufdogan84"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  <a target="_blank" href="mailto:yusufdogan.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-
-
+<video src="https://user-images.githubusercontent.com/98260376/230660917-7986fe42-b8d3-4e8c-bafd-43610142d806.mp4" preload="auto" autoplay muted>  
   
-<video src="https://user-images.githubusercontent.com/98260376/230660232-a5777e7b-ff34-449a-ade6-9a33c89c4825.mp4" preload="auto" autoplay muted>  
-
-
-
-
-
-
-
-  
-  
-  
-
 </div>
-
-
-
-
   
 <br>
 
-
-
 |<img style="width: 500px" src="https://media.giphy.com/media/ptzlRfMuHaGgccUzbh/giphy.gif">|*Welcome to my github profile. I am trying to improve myself on the way to become a Front end Developer. I am studying Computer Programming.*|<img style="width: 500px" src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif">
 |-|-|-|
-
-
 
 
 <p align="center">
