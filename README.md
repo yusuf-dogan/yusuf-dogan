@@ -4,9 +4,9 @@
 <a target="_blank" href="https://www.yusufdogan.tech"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>  <a target="_blank" href="https://www.linkedin.com/in/yusufdogan84"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  <a target="_blank" href="mailto:yusufdogan.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
+<video src="https://user-images.githubusercontent.com/98260376/230555629-7644be1d-0f70-42f2-a38c-8fda4493aefa.mov">
 
 
-https://user-images.githubusercontent.com/98260376/230555629-7644be1d-0f70-42f2-a38c-8fda4493aefa.mov
 
 
 
