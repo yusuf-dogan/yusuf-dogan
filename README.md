@@ -1,9 +1,10 @@
 <div align="center">
 <h1><a href="https://www.yusufdogan.tech"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=435&lines=Merhaba+👋+Ben+Yusuf;Web+Geli%C5%9Ftirici;Front+End+Developer;Grafik+D%C3%BCzenleyici" alt="Typing SVG" /></a></h1>
+  
+  ![](https://user-images.githubusercontent.com/98260376/230549402-fda0561d-d505-4d4d-aea4-9d3982421a2f.mp4)
+ 
 
-  ![](profil.flac){media=audio}
-  
-  
+
   
 <a target="_blank" href="https://www.yusufdogan.tech"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>  <a target="_blank" href="https://www.linkedin.com/in/yusufdogan84"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  <a target="_blank" href="mailto:yusufdogan.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></p>
 </div>
