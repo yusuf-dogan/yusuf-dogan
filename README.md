@@ -8,16 +8,6 @@
 
 <video src="https://user-images.githubusercontent.com/98260376/230593652-45c1e643-619e-4565-b50d-d837a6062135.mp4" preload="auto" autoplay muted>
 
-
-
-
-
-
-
-
-
-
-
 </div>
 
 
@@ -27,8 +17,6 @@
 <br>
 
 
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  width="415" height="400"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"  width="415" height="400"><p>
 
 |<img style="width: 500px" src="https://media.giphy.com/media/ptzlRfMuHaGgccUzbh/giphy.gif">|*Welcome to my github profile. I am trying to improve myself on the way to become a Front end Developer. I am studying Computer Programming.*|<img style="width: 500px" src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif">
 |-|-|-|
