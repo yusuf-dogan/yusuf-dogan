@@ -6,7 +6,10 @@
 
 
 
-<video src="https://user-images.githubusercontent.com/98260376/230565418-c398ebe9-5233-4324-afa6-4b913a83c641.mp4"  autoplay="true">
+<video src="https://user-images.githubusercontent.com/98260376/230566988-3a37c244-48c8-4298-8af9-762665a7fc12.mp4" preload="auto" autoplay muted>
+
+
+
 
 
 
