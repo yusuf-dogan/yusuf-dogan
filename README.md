@@ -9,7 +9,7 @@
   
 <br>
 
-|<img style="width: 500px" src="https://media.giphy.com/media/ptzlRfMuHaGgccUzbh/giphy.gif">|*Welcome to my github profile. I am trying to improve myself on the way to become a Front end Developer. I am studying Computer Programming.*|<img style="width: 500px" src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif">
+|<img style="width: 500px" src="https://media.giphy.com/media/ptzlRfMuHaGgccUzbh/giphy.gif">|*Welcome to my github profile. I am trying to improve myself on the way to become a Front end Developer. I graduated from Anadolu University Computer Programming department.*|<img style="width: 500px" src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif">
 |-|-|-|
 
 
