@@ -2,8 +2,6 @@
 <h1><a href="https://www.yusufdogan.tech"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1000&center=true&vCenter=true&width=435&lines=Merhaba+👋+Ben+Yusuf;Web+Geli%C5%9Ftirici;Front+End+Developer;Grafik+D%C3%BCzenleyici" alt="Typing SVG" /></a></h1>
 
 <a target="_blank" href="https://yusufdoganweb.netlify.app/#home"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>  <a target="_blank" href="https://www.linkedin.com/in/yusufdogandev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  <a target="_blank" href="mailto:yusufdogan.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-<video src="https://user-images.githubusercontent.com/98260376/230660917-7986fe42-b8d3-4e8c-bafd-43610142d806.mp4" preload="auto" autoplay muted>  
   
 </div>
   
