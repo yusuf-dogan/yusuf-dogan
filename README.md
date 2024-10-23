@@ -18,8 +18,8 @@
 ## Languages & Tools 💪
 <div align="center">
 <table style="margin-left: auto; margin-right: auto;">
-  <tr><th>Html5</th>           <th>CSS3</th>      <th>Bootstrap</th><th>Git</th><th>GitHub</th><th>VS Code</th><th>Wordpress</th></tr>
-  <tr><td><img style="width: 134px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"></td>   <td><img style="width: 134px" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif"></td>       <td><img style="width: 134px" src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif"></td><td><img style="width: 134px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"></td><td><img style="width: 134px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif"></td><td><img style="width: 134px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif"></td><td><img style="width: 134px" src="https://media.giphy.com/media/3de1kqCxacXCh2s3NF/giphy.gif"></td></tr>
+  <tr><th>Html5</th>           <th>CSS3</th>      <th>Bootstrap</th> <th>C#</th> <th>Git</th><th>GitHub</th><th>VS Code</th><th>Wordpress</th></tr>
+  <tr><td><img style="width: 134px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"></td>  <td><img style="width: 134px" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif"></td>       <td><img style="width: 134px" src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif"></td>  <td><img style="width: 134px" src="https://media.licdn.com/dms/image/v2/D5622AQEzm0_66cUlNA/feedshare-shrink_800/feedshare-shrink_800/0/1704307947015?e=2147483647&v=beta&t=1u8NFVP3dgveB5qBst1X_27XutIiNrG81-5KOwj7yL4"></td>  <td><img style="width: 134px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"></td><td><img style="width: 134px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif"></td><td><img style="width: 134px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif"></td><td><img style="width: 134px" src="https://media.giphy.com/media/3de1kqCxacXCh2s3NF/giphy.gif"></td></tr>
 </table>
 </div>
 
