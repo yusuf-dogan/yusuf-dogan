@@ -18,16 +18,16 @@
 ## Languages & Tools 💪
 <div align="center">
 <table style="margin-left: auto; margin-right: auto;">
-  <tr><th>Html5</th>           <th>CSS3</th>      <th>Bootstrap</th> <th>C#</th> <th>Git</th><th>GitHub</th><th>VS Code</th><th>Wordpress</th></tr>
-  <tr><td><img style="width: 134px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"></td>  <td><img style="width: 134px" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif"></td>       <td><img style="width: 134px" src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif"></td>  <td><img style="width: 134px" src="https://media.licdn.com/dms/image/v2/D5622AQEzm0_66cUlNA/feedshare-shrink_800/feedshare-shrink_800/0/1704307947015?e=2147483647&v=beta&t=1u8NFVP3dgveB5qBst1X_27XutIiNrG81-5KOwj7yL4"></td>  <td><img style="width: 134px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"></td><td><img style="width: 134px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif"></td><td><img style="width: 134px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif"></td><td><img style="width: 134px" src="https://media.giphy.com/media/3de1kqCxacXCh2s3NF/giphy.gif"></td></tr>
+  <tr><th>Html5</th>           <th>CSS3</th>      <th>Bootstrap</th> <th>C#</th> <th>Git</th><th>GitHub</th><th>VS Code</th></tr>
+  <tr><td><img style="width: 134px" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"></td>  <td><img style="width: 134px" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif"></td>       <td><img style="width: 134px" src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif"></td>  <td><img style="width: 134px" src="https://media.licdn.com/dms/image/v2/D5622AQEzm0_66cUlNA/feedshare-shrink_800/feedshare-shrink_800/0/1704307947015?e=2147483647&v=beta&t=1u8NFVP3dgveB5qBst1X_27XutIiNrG81-5KOwj7yL4"></td>  <td><img style="width: 134px" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif"></td><td><img style="width: 134px" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif"></td><td><img style="width: 134px" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif"></td></tr>
 </table>
 </div>
 
 
 <div align="center">
 <table style="margin-left: auto; margin-right: auto;">
-  <tr><th>Photoshop</th>           <th>Illustrator</th>      <th>Premiere Pro</th></tr>
-  <tr><td><img style="width: 134px" src="https://cdn.dribbble.com/users/392441/screenshots/2592452/media/96909bc51fcaba2a26838a6670d809b0.gif"></td>   <td><img style="width:134px" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400/7994c996055755.5eb16d3301121.gif"></td>       <td><img style="width:134px" src="https://images.squarespace-cdn.com/content/v1/56091db4e4b02efb26807ec0/1533824630667-RW61D8N9HKEEFA0KPGEY/basic-3d-premiere-pro.gif"></td></tr>
+  <tr><th>Wordpress</th><th>Photoshop</th>      <th>Premiere Pro</th> </tr>
+  <tr>  <td><img style="width: 134px" src="https://media.giphy.com/media/3de1kqCxacXCh2s3NF/giphy.gif"></td> <td><img style="width: 134px" src="https://cdn.dribbble.com/users/392441/screenshots/2592452/media/96909bc51fcaba2a26838a6670d809b0.gif"></td> <td><img style="width:134px" src="https://images.squarespace-cdn.com/content/v1/56091db4e4b02efb26807ec0/1533824630667-RW61D8N9HKEEFA0KPGEY/basic-3d-premiere-pro.gif"></td>  </td> </tr>
 </table>
 </div>
 
